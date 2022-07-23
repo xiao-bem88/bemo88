@@ -1,0 +1,26 @@
+{
+  "name": "slot-deposit-bri-24jam",
+  "main": "./atom-file/bem/23-july/bri/slot-deposit-bri-24jam",
+  "version": "1.14.1",
+  "description": "BEMO88 | Link Daftar Judi Slot Online Deposit Via Bank BRI 24 Jam Terpercaya",
+  "keywords": [
+    "Slot Deposit BRI",
+    "Slot Deposit Via Bank BRI",
+    "Slot BRI",
+    "BRI SLOT",
+    "Slot BRI 24 Jam",
+    "Judi Slot BRI",
+    "BRI Slot 24 Jam",
+    "BRI Slot Online",
+    "Slot Online BRI",
+    "Slot BRI Online"
+  ],
+  "activationCommands": {
+    "atom-workspace": "slot-deposit-bri-24jam"
+  },
+  "repository": "https://github.com/xiao-bem88/bemo88.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
